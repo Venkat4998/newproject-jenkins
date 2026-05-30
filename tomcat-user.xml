@@ -13,5 +13,6 @@
     <user username="admin"
           password="admin@123"
           roles="manager-gui,manager-script,manager-jmx,manager-status,admin-gui"/>
+  sudo systemctl restart tomcat
 
 </tomcat-users>
